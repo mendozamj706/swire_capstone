@@ -12,6 +12,12 @@ To tackle the business problem, our approach involves mapping the innovative pro
 
 In an organized effort to address the project's requirements efficiently, we decided to allocate specific tasks per case among our team members. I personally took responsibility for the exploratory data analysis (EDA) of questions 2 and 6, delving into the data to uncover initial insights and patterns. For the modeling phase, I focused on questions 2, 6, and 7, applying sophisticated forecasting techniques to predict future demands effectively. Additionally, I contributed to the project by conducting a sentiment analysis on the Dreamworld and Starlight case studies. This analysis was aimed at bolstering a team member's proposal, providing valuable insights that enriched our collective understanding and strategic approach.
 
+# Business Value of the Solution
+
+At the outset of this project, we were tasked with addressing two critical business questions for Swire Coca-Cola: "How much should we make?" and "Should we make more?" Our team's comprehensive approach involved providing estimated and forecasted demand through various modeling techniques for all cases, enabling precise production planning. By quantifying expected demand, we could also calculate associated costs, such as potential overage and underage expenses, thus allowing Swire to understand the financial implications and risks involved.
+
+Additionally, our findings included targeted location recommendations for launching new products, enhancing Swire's market entry strategies. As for the question of whether to produce more, we identified a significant opportunity to harness real-time data from online reviews and community discussions. This approach would provide ongoing insights into product performance, enabling Swire to recalibrate our models continually and make informed decisions about increasing production based on up-to-date consumer feedback and demand trends.
+
 
 
 
