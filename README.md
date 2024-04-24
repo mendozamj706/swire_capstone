@@ -24,7 +24,9 @@ Throughout this project, our team faced several significant challenges due to th
 
 Another challenge arose from the anonymization of the data. The dataset did not include real-world names or directly comparable terms for competitors, which initially set us back in our comparative analysis. This limitation required us to focus solely on the data provided without the ability to cross-reference external data sources or conduct broader competitive analyses. Despite these hurdles, our team adapted our methodologies to work within these constraints and still produce valuable insights for Swire Coca-Cola.
 
+# What was learned in the Project
 
+This capstone project, marking the culmination of our academic journey, has been a profound learning experience for me. Through tackling the complex challenges presented by Swire Coca-Cola’s innovative product segment, I gained invaluable insights into the intricacies of data science in a real-world business context. I learned the importance of adaptability and precision in data handling, especially when dealing with large, anonymized datasets where computational limits and data anonymity pose significant analytical challenges. Moreover, this project enhanced my understanding of how targeted, data-driven decision-making can profoundly influence a company’s strategic outcomes, such as production planning and market launches. The experience of collaborating on this project has also honed my teamwork and problem-solving skills, preparing me for the collaborative and dynamic nature of the data science field.
 
 
 
