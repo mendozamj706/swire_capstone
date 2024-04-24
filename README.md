@@ -18,6 +18,17 @@ At the outset of this project, we were tasked with addressing two critical busin
 
 Additionally, our findings included targeted location recommendations for launching new products, enhancing Swire's market entry strategies. As for the question of whether to produce more, we identified a significant opportunity to harness real-time data from online reviews and community discussions. This approach would provide ongoing insights into product performance, enabling Swire to recalibrate our models continually and make informed decisions about increasing production based on up-to-date consumer feedback and demand trends.
 
+# Difficulties Encountered the Group Encountered
+
+Throughout this project, our team faced several significant challenges due to the complexity and volume of the data involved. Initially, we attempted to apply a single model to address all the questions; however, this approach proved inefficient. The sheer size of the dataset exceeded normal computing capabilities, hindering our ability to manipulate the data effectively. This realization forced us to refine our strategy, leading us to select specific subsets of data tailored to each individual question, which significantly improved our handling and analysis efficiency.
+
+Another challenge arose from the anonymization of the data. The dataset did not include real-world names or directly comparable terms for competitors, which initially set us back in our comparative analysis. This limitation required us to focus solely on the data provided without the ability to cross-reference external data sources or conduct broader competitive analyses. Despite these hurdles, our team adapted our methodologies to work within these constraints and still produce valuable insights for Swire Coca-Cola.
+
+
+
+
+
+
 
 
 
